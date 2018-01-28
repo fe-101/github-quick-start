@@ -74,12 +74,12 @@ $ cat ~/.ssh/id_rsa.pub
 
 ## 创建本地仓库并上传到 github 仓库
 ```
-$ git init # 创建本地仓库
-$ touch README.md # 创建 README 文件
-$ git add . # 将文件添加到暂存区,暂存区中保存的是将要提交的文件
-$ git commit -m "first commit" # 提交暂存区的文件变化到本地仓库
-$ git remote add origin git@github.com:haloislet/github-quick-start.git # 添加一个远程仓库并将名字标记为 origin
-$ git push origin master # 将本地仓库的内容提交到名为 origin 的远程仓库的 master 分支
+$ git init                                   # 创建本地仓库
+$ touch README.md                 # 创建 README 文件
+$ git add .                                # 将文件添加到暂存区,暂存区中保存的是将要提交的文件
+$ git commit -m "first commit"   # 提交暂存区的文件变化到本地仓库
+$ git remote add origin git@github.com:haloislet/github-quick-start.git       # 添加一个远程仓库并将名字标记为 origin
+$ git push origin master             # 将本地仓库的内容提交到名为 origin 的远程仓库的 master 分支
 ```
 
 <br>
