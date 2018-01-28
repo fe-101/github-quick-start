@@ -1,4 +1,4 @@
-github 快速入门
+github 快速入门 ![](https://img.shields.io/github/license/mashape/apistatus.svg)
 ===
 
 
