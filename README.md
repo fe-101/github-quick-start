@@ -1,5 +1,19 @@
-github 快速入门 ![](https://img.shields.io/github/license/mashape/apistatus.svg)
+github 快速入门 ![](https://img.shields.io/github/license/mashape/apistatus.svg)  ![](https://img.shields.io/badge/%EF%A3%BF-Mac-lightgrey.svg)
 ===
+
+<!-- TOC -->
+
+- [账号注册](#账号注册)
+- [安装 git](#安装-git)
+- [配置 git](#配置-git)
+- [配置 ssh](#配置-ssh)
+- [创建 github 新仓库](#创建-github-新仓库)
+- [创建本地仓库并上传到 github 仓库](#创建本地仓库并上传到-github-仓库)
+- [下载 github 仓库](#下载-github-仓库)
+- [拉取远程更新](#拉取远程更新)
+- [许可证](#许可证)
+
+<!-- /TOC -->
 
 <br>
 
@@ -81,3 +95,9 @@ $ git clone git@github.com:haloislet/github-quick-start.git
 ```
 $ git pull origin master
 ```
+
+<br>
+
+## 许可证
+
+The MIT License (MIT)
