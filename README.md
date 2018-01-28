@@ -2,11 +2,13 @@ github 快速入门 ![](https://img.shields.io/github/license/mashape/apistatus.
 ===
 
 <br>
+
 ## 账号注册
 首先你需要[注册](https://github.com/join)一个 github 账，如图所示，设置账号密码和邮箱，其它都可以使用默认设置。
 ![注册](./imgs/register.png)
 
 <br>
+
 ## 安装 git 
 
 安装 homebrew 
@@ -19,6 +21,7 @@ $ brew install git
 ```
 
 <br>
+
 ## 配置 git
 配置一下全局用户名和全局邮箱
 ```
@@ -29,6 +32,7 @@ $ git config --global user.email "haloislet@gmail.com"
 $ git config --global --list # 查看全局配置
 ```
 <br>
+
 ## 配置 ssh
 git 连接 github 的时候会用到 ssh 。我们需要配置一下 ssh。
 
@@ -48,10 +52,12 @@ $ cat ~/.ssh/id_rsa.pub
 附：ssh-keygen 有两个常用的参数 -t 和 -C ，其中 -t 参数用来指定加密的算法默认值为 rsa 。-C 参数为注释,默认为当前用户名@本地主机名。
 
 <br>
+
 ## 创建 github 新仓库
 在[创建仓库页面中](https://github.com/new)输入自定义的仓库名然后点击 Create repository 就可以了。
 
 <br>
+
 ## 创建本地仓库并上传到 github 仓库
 ```
 $ git init # 创建本地仓库
@@ -63,12 +69,14 @@ $ git push origin master # 将本地仓库的内容提交到名为 origin 的远
 ```
 
 <br>
+
 ## 下载 github 仓库
 ```
 $ git clone git@github.com:haloislet/github-quick-start.git
 ```
 
 <br>
+
 ## 拉取远程更新
 ```
 $ git pull origin master
