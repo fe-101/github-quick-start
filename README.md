@@ -1,4 +1,4 @@
-github 快速入门 ![](https://img.shields.io/github/license/mashape/apistatus.svg)  ![](https://img.shields.io/badge/%EF%A3%BF-Mac-lightgrey.svg)
+github 快速入门 ![](https://img.shields.io/github/license/mashape/apistatus.svg)  ![](https://img.shields.io/badge/platform-Mac-lightgrey.svg)
 ===
 
 <!-- TOC -->
