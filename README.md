@@ -18,7 +18,7 @@ github 快速入门 ![](https://img.shields.io/github/license/mashape/apistatus.
 <br>
 
 ## 账号注册
-首先你需要[注册](https://github.com/join)一个 github 账，如图所示，设置账号密码和邮箱，其它都可以使用默认设置。
+首先你需要[注册](https://github.com/join)一个 github 账号，如图所示，设置账号密码和邮箱，其它都可以使用默认设置。
 ![注册](./imgs/register.png)
 
 <br>
