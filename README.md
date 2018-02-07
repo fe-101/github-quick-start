@@ -1,4 +1,4 @@
-github 快速入门 ![](https://img.shields.io/npm/l/whistle.svg?style=flat-square)  ![](https://img.shields.io/badge/platform-Mac-lightgrey.svg)
+github 快速入门 ![](https://img.shields.io/npm/l/whistle.svg?style=flat-square) 
 ===
 
 <!-- TOC -->
